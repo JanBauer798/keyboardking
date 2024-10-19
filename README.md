@@ -1,4 +1,4 @@
 # keyboardking
 
 
-ahoj jardo
+ahoj jardo, jak se máš...
